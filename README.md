@@ -17,10 +17,20 @@ to accept or reject the errand, which the user is notified about.
 - firestore
 - dart
 - typescript
+- flutterwave (payment gate-way)
 
 ## Used by
 - This product was built primarily for and to suite the needs an entrepreneur and its targeted use
   is for a particular community.
+
+## Features
+- Authentication (register and sign-in) {user and admin}
+- Add Errands (with specifications: title, estimated completion time,location) {user}
+- Edit errand (before its accepted) {user}
+- In-app payment
+- Contact (what's app, call, text)
+- Notification(errand acceptance, rejection or completion)
+  
 
 
 A few resources to get you started if this is your first Flutter project:
